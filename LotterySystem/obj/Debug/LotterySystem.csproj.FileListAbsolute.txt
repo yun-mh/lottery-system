@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\LotterySystem\LotterySystem\bin\Debug\LotterySystem.exe.config
+C:\Users\user\source\repos\LotterySystem\LotterySystem\bin\Debug\LotterySystem.exe
+C:\Users\user\source\repos\LotterySystem\LotterySystem\bin\Debug\LotterySystem.pdb
+C:\Users\user\source\repos\LotterySystem\LotterySystem\obj\Debug\LotterySystem.csprojAssemblyReference.cache
+C:\Users\user\source\repos\LotterySystem\LotterySystem\obj\Debug\LotterySystem.Properties.Resources.resources
+C:\Users\user\source\repos\LotterySystem\LotterySystem\obj\Debug\LotterySystem.csproj.GenerateResource.cache
+C:\Users\user\source\repos\LotterySystem\LotterySystem\obj\Debug\LotterySystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LotterySystem\LotterySystem\obj\Debug\LotterySystem.exe
+C:\Users\user\source\repos\LotterySystem\LotterySystem\obj\Debug\LotterySystem.pdb
+C:\Users\user\source\repos\LotterySystem\LotterySystem\obj\Debug\LotterySystem.Form1.resources
